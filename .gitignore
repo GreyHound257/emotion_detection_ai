@@ -1,0 +1,6 @@
+__pycache__
+.pyc
+saved_model
+.vscode
+.env
+.DS_Store
